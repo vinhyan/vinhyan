@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinhyan
+- 👋 Hi, I’m a Compputer Programming and Analysis student at Seneca College
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JS, React
 - 💞️ I’m looking to collaborate on any Front End beginner projects :)
