@@ -1,8 +1,3 @@
-- 👋 Hi, I’m a Compputer Programming and Analysis student at Seneca College
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, React
-- 💞️ I’m looking to collaborate on any Front End beginner projects :)
-- 📫 How to reach me: vinh.nhan126@gmail.com
 
 <!---
 vinhyan/vinhyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
